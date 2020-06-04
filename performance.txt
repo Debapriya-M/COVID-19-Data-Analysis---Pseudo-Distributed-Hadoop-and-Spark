@@ -1,0 +1,17 @@
+Measuring the time and performance for the tasks executed in Hadoop and Spark. 
+Medium used: Hortonworks Sandbox and Virtual Box
+
+Time measured with the date command while executing the tasks. 
+Programming Language: Java
+
+Observations:
+
+Hadoop Task 1: 2 min 35 sec
+Hadoop Task 2: 1 min 11 sec
+Hadoop Task 3: 1 min 10 sec
+
+Spark Task 1: 29sec
+Spark Task 2: 6.40 sec
+
+
+The time taken in Apache Spark is much lesser than that compared to Hadoop.
